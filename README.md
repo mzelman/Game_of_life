@@ -15,7 +15,7 @@ java Main
 ```
 ## Usage
 
-In Main.java file basic game variables including number of simulations (numberOfSimulations), number of alive cells at the beginning of the simulation (numberOfCells) and length of side of a square game board (size) are declared. User can adjust these values to check different scenarios.
+In `Main.java` file basic game variables including number of simulations (numberOfSimulations), number of alive cells at the beginning of the simulation (numberOfCells) and length of side of a square game board (size) are declared. User can adjust these values to check different scenarios.
 ```java
 int numberOfSimulations = 1000;
 int numberOfCells = 500;
